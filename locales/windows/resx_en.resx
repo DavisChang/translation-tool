@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="auth_login_button" xml:space="preserve">
+        <value>Sign In</value>
+    </data>
+    <data name="auth_login_forgot_password" xml:space="preserve">
+        <value>Forgot your password?</value>
+    </data>
+    <data name="auth_login_placeholder_password" xml:space="preserve">
+        <value>Enter your password</value>
+    </data>
+    <data name="auth_login_placeholder_username" xml:space="preserve">
+        <value>Enter your username</value>
+    </data>
+    <data name="auth_login_remember_me" xml:space="preserve">
+        <value>Remember me</value>
+    </data>
+    <data name="auth_login_title" xml:space="preserve">
+        <value>Login</value>
+    </data>
+    <data name="auth_logout_button" xml:space="preserve">
+        <value>Logout</value>
+    </data>
+    <data name="auth_logout_confirmation" xml:space="preserve">
+        <value>Are you sure you want to log out?</value>
+    </data>
+    <data name="auth_signup_button" xml:space="preserve">
+        <value>Create Account</value>
+    </data>
+    <data name="auth_signup_terms_agreement" xml:space="preserve">
+        <value>I agree to the terms and conditions</value>
+    </data>
+    <data name="auth_signup_title" xml:space="preserve">
+        <value>Sign Up</value>
+    </data>
+    <data name="common_cancel" xml:space="preserve">
+        <value>Cancel</value>
+    </data>
+    <data name="common_close" xml:space="preserve">
+        <value>Close</value>
+    </data>
+    <data name="common_confirm" xml:space="preserve">
+        <value>Confirm</value>
+    </data>
+    <data name="common_save" xml:space="preserve">
+        <value>Save</value>
+    </data>
+    <data name="dashboard_no_data" xml:space="preserve">
+        <value>No data available</value>
+    </data>
+    <data name="dashboard_recent_activity" xml:space="preserve">
+        <value>Recent Activity</value>
+    </data>
+    <data name="dashboard_welcome_message" xml:space="preserve">
+        <value>Welcome back, {name}!</value>
+    </data>
+    <data name="errors_form_invalid_email" xml:space="preserve">
+        <value>Invalid email address</value>
+    </data>
+    <data name="errors_form_password_too_short" xml:space="preserve">
+        <value>Password must be at least {min} characters long</value>
+    </data>
+    <data name="errors_form_required" xml:space="preserve">
+        <value>This field is required</value>
+    </data>
+    <data name="errors_network" xml:space="preserve">
+        <value>Network error, please try again later</value>
+    </data>
+    <data name="errors_server" xml:space="preserve">
+        <value>Server error, please contact support</value>
+    </data>
+    <data name="navigation_dashboard" xml:space="preserve">
+        <value>Dashboard</value>
+    </data>
+    <data name="navigation_home" xml:space="preserve">
+        <value>Home</value>
+    </data>
+    <data name="navigation_profile" xml:space="preserve">
+        <value>Profile</value>
+    </data>
+    <data name="navigation_settings" xml:space="preserve">
+        <value>Settings</value>
+    </data>
+    <data name="settings_language_chinese" xml:space="preserve">
+        <value>Chinese</value>
+    </data>
+    <data name="settings_language_english" xml:space="preserve">
+        <value>English</value>
+    </data>
+    <data name="settings_language_french" xml:space="preserve">
+        <value>French</value>
+    </data>
+    <data name="settings_language_japanese" xml:space="preserve">
+        <value>Japanese</value>
+    </data>
+    <data name="settings_language_label" xml:space="preserve">
+        <value>Language</value>
+    </data>
+    <data name="settings_theme_dark" xml:space="preserve">
+        <value>Dark Mode</value>
+    </data>
+    <data name="settings_theme_label" xml:space="preserve">
+        <value>Theme</value>
+    </data>
+    <data name="settings_theme_light" xml:space="preserve">
+        <value>Light Mode</value>
+    </data>
+    <data name="settings_title" xml:space="preserve">
+        <value>Settings</value>
+    </data>
+</root>

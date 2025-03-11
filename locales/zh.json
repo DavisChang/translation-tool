@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "login": {
+      "button": "登入",
+      "forgot_password": "忘記密碼？",
+      "placeholder_password": "請輸入您的密碼",
+      "placeholder_username": "請輸入您的使用者名稱",
+      "remember_me": "記住我",
+      "title": "登入"
+    },
+    "logout": {
+      "button": "登出",
+      "confirmation": "您確定要登出嗎？"
+    },
+    "signup": {
+      "button": "建立帳戶",
+      "terms_agreement": "我同意條款與條件",
+      "title": "註冊"
+    }
+  },
+  "common": {
+    "cancel": "取消",
+    "close": "關閉",
+    "confirm": "確認",
+    "save": "儲存"
+  },
+  "dashboard": {
+    "no_data": "目前沒有可用的資料",
+    "recent_activity": "近期活動",
+    "welcome_message": "歡迎回來，{name}！"
+  },
+  "errors": {
+    "form": {
+      "invalid_email": "電子郵件地址格式錯誤",
+      "password_too_short": "密碼長度至少需 {min} 個字元",
+      "required": "此欄位為必填"
+    },
+    "network": "網路錯誤，請稍後再試",
+    "server": "伺服器錯誤，請聯繫支援"
+  },
+  "navigation": {
+    "dashboard": "儀表板",
+    "home": "首頁",
+    "profile": "個人資料",
+    "settings": "設定"
+  },
+  "settings": {
+    "language": {
+      "chinese": "中文",
+      "english": "英文",
+      "french": "法文",
+      "japanese": "日文",
+      "label": "語言"
+    },
+    "theme": {
+      "dark": "深色模式",
+      "label": "主題",
+      "light": "淺色模式"
+    },
+    "title": "設定"
+  }
+}

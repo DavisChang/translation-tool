@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="auth_login_button" xml:space="preserve">
+        <value>登入</value>
+    </data>
+    <data name="auth_login_forgot_password" xml:space="preserve">
+        <value>忘記密碼？</value>
+    </data>
+    <data name="auth_login_placeholder_password" xml:space="preserve">
+        <value>請輸入您的密碼</value>
+    </data>
+    <data name="auth_login_placeholder_username" xml:space="preserve">
+        <value>請輸入您的使用者名稱</value>
+    </data>
+    <data name="auth_login_remember_me" xml:space="preserve">
+        <value>記住我</value>
+    </data>
+    <data name="auth_login_title" xml:space="preserve">
+        <value>登入</value>
+    </data>
+    <data name="auth_logout_button" xml:space="preserve">
+        <value>登出</value>
+    </data>
+    <data name="auth_logout_confirmation" xml:space="preserve">
+        <value>您確定要登出嗎？</value>
+    </data>
+    <data name="auth_signup_button" xml:space="preserve">
+        <value>建立帳戶</value>
+    </data>
+    <data name="auth_signup_terms_agreement" xml:space="preserve">
+        <value>我同意條款與條件</value>
+    </data>
+    <data name="auth_signup_title" xml:space="preserve">
+        <value>註冊</value>
+    </data>
+    <data name="common_cancel" xml:space="preserve">
+        <value>取消</value>
+    </data>
+    <data name="common_close" xml:space="preserve">
+        <value>關閉</value>
+    </data>
+    <data name="common_confirm" xml:space="preserve">
+        <value>確認</value>
+    </data>
+    <data name="common_save" xml:space="preserve">
+        <value>儲存</value>
+    </data>
+    <data name="dashboard_no_data" xml:space="preserve">
+        <value>目前沒有可用的資料</value>
+    </data>
+    <data name="dashboard_recent_activity" xml:space="preserve">
+        <value>近期活動</value>
+    </data>
+    <data name="dashboard_welcome_message" xml:space="preserve">
+        <value>歡迎回來，{name}！</value>
+    </data>
+    <data name="errors_form_invalid_email" xml:space="preserve">
+        <value>電子郵件地址格式錯誤</value>
+    </data>
+    <data name="errors_form_password_too_short" xml:space="preserve">
+        <value>密碼長度至少需 {min} 個字元</value>
+    </data>
+    <data name="errors_form_required" xml:space="preserve">
+        <value>此欄位為必填</value>
+    </data>
+    <data name="errors_network" xml:space="preserve">
+        <value>網路錯誤，請稍後再試</value>
+    </data>
+    <data name="errors_server" xml:space="preserve">
+        <value>伺服器錯誤，請聯繫支援</value>
+    </data>
+    <data name="navigation_dashboard" xml:space="preserve">
+        <value>儀表板</value>
+    </data>
+    <data name="navigation_home" xml:space="preserve">
+        <value>首頁</value>
+    </data>
+    <data name="navigation_profile" xml:space="preserve">
+        <value>個人資料</value>
+    </data>
+    <data name="navigation_settings" xml:space="preserve">
+        <value>設定</value>
+    </data>
+    <data name="settings_language_chinese" xml:space="preserve">
+        <value>中文</value>
+    </data>
+    <data name="settings_language_english" xml:space="preserve">
+        <value>英文</value>
+    </data>
+    <data name="settings_language_french" xml:space="preserve">
+        <value>法文</value>
+    </data>
+    <data name="settings_language_japanese" xml:space="preserve">
+        <value>日文</value>
+    </data>
+    <data name="settings_language_label" xml:space="preserve">
+        <value>語言</value>
+    </data>
+    <data name="settings_theme_dark" xml:space="preserve">
+        <value>深色模式</value>
+    </data>
+    <data name="settings_theme_label" xml:space="preserve">
+        <value>主題</value>
+    </data>
+    <data name="settings_theme_light" xml:space="preserve">
+        <value>淺色模式</value>
+    </data>
+    <data name="settings_title" xml:space="preserve">
+        <value>設定</value>
+    </data>
+</root>

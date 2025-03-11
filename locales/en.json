@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "login": {
+      "button": "Sign In",
+      "forgot_password": "Forgot your password?",
+      "placeholder_password": "Enter your password",
+      "placeholder_username": "Enter your username",
+      "remember_me": "Remember me",
+      "title": "Login"
+    },
+    "logout": {
+      "button": "Logout",
+      "confirmation": "Are you sure you want to log out?"
+    },
+    "signup": {
+      "button": "Create Account",
+      "terms_agreement": "I agree to the terms and conditions",
+      "title": "Sign Up"
+    }
+  },
+  "common": {
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "save": "Save"
+  },
+  "dashboard": {
+    "no_data": "No data available",
+    "recent_activity": "Recent Activity",
+    "welcome_message": "Welcome back, {name}!"
+  },
+  "errors": {
+    "form": {
+      "invalid_email": "Invalid email address",
+      "password_too_short": "Password must be at least {min} characters long",
+      "required": "This field is required"
+    },
+    "network": "Network error, please try again later",
+    "server": "Server error, please contact support"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "settings": {
+    "language": {
+      "chinese": "Chinese",
+      "english": "English",
+      "french": "French",
+      "japanese": "Japanese",
+      "label": "Language"
+    },
+    "theme": {
+      "dark": "Dark Mode",
+      "label": "Theme",
+      "light": "Light Mode"
+    },
+    "title": "Settings"
+  }
+}
