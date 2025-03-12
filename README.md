@@ -14,6 +14,9 @@ This project provides a complete multi-language translation workflow, supporting
   ├── windows/
       ├── resx_en.resx      # Windows English translations (auto-generated)
       ├── resx_zh.resx      # Windows Chinese translations (auto-generated)
+  ├── web/
+      ├── en_web.json       # Web English translations (auto-generated)
+      ├── zh_web.json       # Web Chinese translations (auto-generated)
 /scripts
   ├── convert.py            # Python script: Converts JSON to Android XML / Windows RESX
   ├── validate-i18n.js      # Node.js script: Validates translation completeness
