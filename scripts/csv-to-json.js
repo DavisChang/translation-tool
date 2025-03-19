@@ -4,7 +4,9 @@ const csv = require("csv-parser");
 
 const fileName = "en_web";
 const csvFilePath = path.join(__dirname, "translations", `${fileName}.csv`);
-const jsonFilePath = path.join(__dirname, `locales/web/${fileName}.json`);
+
+const jsonFileName = "zh_web";
+const jsonFilePath = path.join(__dirname, `locales/web/${jsonFileName}.json`);
 
 // Ensure output directory exists
 if (!fs.existsSync(path.dirname(jsonFilePath))) {
@@ -18,6 +20,7 @@ const orderedKeys = [];
 fs.createReadStream(csvFilePath)
   .pipe(csv()) // Parses CSV file
   .on("data", (row) => {
+    console.log(row)
     const key = row["Key"].trim();
     const englishValue = row["English Value"].trim();
     const chineseValue = row["Chinese Value"].trim(); // Get Chinese translation
